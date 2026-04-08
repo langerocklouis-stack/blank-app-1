@@ -7,10 +7,10 @@ st.write(
 )
 
 
-st.title("Graphique en barres")
+st.title("Soeurs de oscar")
 # Données exemple
 data = pd.DataFrame({
-    "Catégorie": ["A", "B", "C", "D", "E"],
+    "Catégorie": ["Mao", "Candice", "Fostine"],
     "Valeur": [23, 45, 56, 78, 32]
 })
 # Graphique en barres
